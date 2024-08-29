@@ -1,0 +1,61 @@
+.left {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+.youtubeicon {
+  color: red;
+}
+.logo {
+  display: flex;
+  align-items: center;
+}
+.h1 {
+  font-size: smaller;
+}
+.search {
+  width: 350px;
+  border-radius: 15px;
+  border: 1px inset rgb(136, 132, 132);
+  height: 25px;
+}
+.center {
+  align-items: center;
+  display: flex;
+  margin: 7px;
+  gap: 3px;
+}
+.right {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.nav {
+  display: flex;
+  justify-content: space-between;
+}
+.home {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.section {
+  display: flex;
+  align-items: center;
+}
+.page {
+  display: flex;
+  gap: 70px;
+}
+.videos {
+  display: flex;
+  gap: 40px;
+  flex-wrap: wrap;
+}
+.youtubevideo {
+  border-radius: 12px;
+}
+.h1 {
+  font-size: small;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
